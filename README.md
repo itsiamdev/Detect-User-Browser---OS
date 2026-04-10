@@ -9,7 +9,7 @@
 - 🚀 Lightweight and fast
 
 ## 🌍 Live Demo
-Check it out here: [https://iam269.github.io/Detect-User-Browser---OS/](https://iam269.github.io/Detect-User-Browser---OS/)
+Check it out here: [https://itsiamdev.github.io/Detect-User-Browser---OS/](https://itsiamdev.github.io/Detect-User-Browser---OS/)
 
 ## 🛠️ Technologies Used
 - HTML5
